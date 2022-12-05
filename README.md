@@ -1,1 +1,1 @@
-collection of my machine learning projects
+collection of machine learning projects
