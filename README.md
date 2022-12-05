@@ -1,1 +1,1 @@
-collection of machine learning projects
+a collection of machine learning projects
